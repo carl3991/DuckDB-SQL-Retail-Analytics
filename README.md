@@ -42,24 +42,20 @@ A reusable view for dashboards with:
 * Total orders
 * Average order value
 <br></br>
-
 2. Cumulative Revenue Over Time
 Running total of revenue to visualize growth trajectory.
 <br></br>
 3. Category Revenue Contribution
 Percentage share of each category relative to total revenue.
 <br></br>
-
 4. Product Performance
 * Top products by revenue
 * Product ranking within each category
   <br></br>
-
 5. Customer Segmentation
 * Receny-Frequency-Monetary (RFM) Analysis
-
-
-8. Customer Behavior Insights
+<br></br>
+6. Customer Behavior Insights
 * Customers who never purchased from Electronics
 * Premium vs Budget customer revenue comparison
 * State‑level revenue patterns
