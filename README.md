@@ -8,7 +8,7 @@ using confidential information. The goal here is to show the ability to design a
 * Product performance
 * Category contribution
 * Geographic insights
-* Time‑series metrics (YTD, cumulative revenue)
+* Cumulative Revenue metric
 
 ### Data Model (Star Schema)
 
