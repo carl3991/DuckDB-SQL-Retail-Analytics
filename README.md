@@ -11,14 +11,16 @@ using confidential information. The goal here is to show the ability to design a
 * Time‑series metrics (YTD, cumulative revenue)
 
 ### Data Model (Star Schema)
+
 ##### Fact Table
+
 * sales
-   * transaction_id
-   * sale_date
-   * product_id
-   * customer_id
-   * quantity
-   * revenue
+     * transaction_id
+     * sale_date
+     * product_id
+     * customer_id
+     * quantity
+     * revenue
 ##### Dimension Tables
 * customer
    * custumer_id
@@ -26,7 +28,7 @@ using confidential information. The goal here is to show the ability to design a
    * state
    * customer_age
    * customer_segment
-* product_dim
+* product
     * product_id
     * unit_price
     * brand
