@@ -13,15 +13,24 @@ using confidential information. The goal here is to show the ability to design a
 ### Data Model (Star Schema)
 ##### Fact Table
 * sales
-* * transaction_id
-* sale_date
-* product_id
-* customer_id
-* quantity
-* revenue
+ * transaction_id
+ * sale_date
+ * product_id
+ * customer_id
+ * quantity
+ * revenue
 ##### Dimension Tables
 * customer
+   * custumer_id
+   * gender
+   * state
+   * customer_age
+   * customer_segment
 * product_dim
+    * product_id
+    * unit_price
+    * brand
+    * category
 
 ### Key Insights
 1. Monthly Sales Summary View
