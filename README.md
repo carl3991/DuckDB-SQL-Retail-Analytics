@@ -41,18 +41,21 @@ A reusable view for dashboards with:
 * Total quantity sold
 * Total orders
 * Average order value
+<br></br>
 
-3. Cumulative Revenue Over Time
+2. Cumulative Revenue Over Time
 Running total of revenue to visualize growth trajectory.
-
-4. Category Revenue Contribution
+<br></br>
+3. Category Revenue Contribution
 Percentage share of each category relative to total revenue.
+<br></br>
 
-6. Product Performance
+4. Product Performance
 * Top products by revenue
 * Product ranking within each category
-  
-7. Customer Segmentation
+  <br></br>
+
+5. Customer Segmentation
 * Receny-Frequency-Monetary (RFM) Analysis
 
 
