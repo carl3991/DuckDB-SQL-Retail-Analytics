@@ -61,8 +61,8 @@ Percentage share of each category relative to total revenue.
 * Monthly revenue trend
 * Cumulative revenue over time
 ### Conclusion
-*
-*
-*
-*
-*
+* Home products emerged as the top-performing category, generating the highest revenue across all product category
+* Regular customers contributed the largest portion of revenue, outperforming both budget and premium customers
+* Los Angeles stood out as the strongest revenue-generated region
+* Revenue contribution was evenly split, with male and female customers each accounting for roughly half of total revenue
+* Monthly revenue demonstrated high volatility during the 2025 period, indicating a cyclical pattern instead of an upward trend
