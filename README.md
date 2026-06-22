@@ -53,9 +53,9 @@ Percentage share of each category relative to total revenue.
 * Customers who never purchased from Electronics
 * Premium vs Budget customer revenue comparison
 * State‑level revenue patterns
-7. **Visualizations**
+### Visualizations
 * Revenue by product category
 * Revenue by custument segment
 * Monthly revenue trend
 * Cumulative revenue over time
-8. **Conclusion**
+### Conclusion
