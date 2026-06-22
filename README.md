@@ -41,8 +41,10 @@ using confidential information. The goal here is to show the ability to design a
 * Total orders
 * Average order value
 2. **Cumulative Revenue Over Time**
+  
 To visualize growth trajectory.
 3. **Category Revenue Contribution**
+
 Percentage share of each category relative to total revenue.
 4. **Product Performance**
 * Top products by revenue
@@ -59,3 +61,8 @@ Percentage share of each category relative to total revenue.
 * Monthly revenue trend
 * Cumulative revenue over time
 ### Conclusion
+*
+*
+*
+*
+*
