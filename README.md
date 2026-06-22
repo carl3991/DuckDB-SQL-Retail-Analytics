@@ -35,27 +35,27 @@ using confidential information. The goal here is to show the ability to design a
     * category
 
 ### Key Insights
-1. Monthly Sales Summary View
-A reusable view for dashboards with:
+1. **Monthly Sales Summary View**
 * Total revenue generated
 * Total quantity sold
 * Total orders
 * Average order value
-<br></br>
-2. Cumulative Revenue Over Time
-Running total of revenue to visualize growth trajectory.
-<br></br>
-3. Category Revenue Contribution
+2. **Cumulative Revenue Over Time**
+To visualize growth trajectory.
+3. **Category Revenue Contribution**
 Percentage share of each category relative to total revenue.
-<br></br>
-4. Product Performance
+4. **Product Performance**
 * Top products by revenue
 * Product ranking within each category
-  <br></br>
-5. Customer Segmentation
+5. **Customer Segmentation**
 * Receny-Frequency-Monetary (RFM) Analysis
-<br></br>
-6. Customer Behavior Insights
+6. **Customer Behavior Insights**
 * Customers who never purchased from Electronics
 * Premium vs Budget customer revenue comparison
 * State‑level revenue patterns
+7. **Visualizations**
+* Revenue by product category
+* Revenue by custument segment
+* Monthly revenue trend
+* Cumulative revenue over time
+8. **Conclusion**
